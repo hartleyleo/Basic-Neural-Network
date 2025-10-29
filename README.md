@@ -33,7 +33,7 @@ Basic-Neural-Network/
 
 * **C++ compiler** (supporting C++17)
 * **CMake** ≥ 3.10
-* **Python 3** (preferably in a virtual environment)
+* **Python 3**
 * **pip packages**:
 
   * `pybind11`
